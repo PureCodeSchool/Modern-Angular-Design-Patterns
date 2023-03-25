@@ -1,0 +1,31 @@
+# Node dependencies
+/node_modules
+
+# Build output
+/dist
+
+# Angular cache and build files
+/.angular/cache
+/.ngbuildcache
+
+# TypeScript build output
+/**/*.js
+/**/*.js.map
+/**/*.d.ts
+
+# IDE and editor files
+/.vscode
+/.idea
+*.iml
+*.suo
+*.user
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
